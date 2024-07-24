@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>6</DayMonth>
+    <Year>תשפ"ז</Year>
+    <Result>בשלישי בשבת בששה ימים לירח שבט שנת חמשת אלפים ושבע מאות ושמנים ושבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>5</DayMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ט</Year>
+    <Result>בחמישי בשבת בחמשה ימים לירח אדר שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>17</DayMonth>
+    <Month>תמוז</Month>
+    <Year>תשפ"ט</Year>
+    <Result>ברביעי בשבת בשבעה עשר יום לירח תמוז שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>9</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשפ"ה</Year>
+    <Result>ברביעי בשבת בתשעה ימים לירח כסלו שנת חמשת אלפים ושבע מאות ושמנים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשצ"ג</Year>
+    <Result>בשלישי בשבת בשבעה ימים לירח כסלו שנת חמשת אלפים ושבע מאות ותשעים ושלש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>1</DayMonth>
+    <Month>טבת</Month>
+    <Year>תשפ"ז</Year>
+    <Result>ברביעי בשבת ביום אחד לירח טבת שנת חמשת אלפים ושבע מאות ושמנים ושבע לבריאת העולם</Result>
+  </Query>
+</Queries>

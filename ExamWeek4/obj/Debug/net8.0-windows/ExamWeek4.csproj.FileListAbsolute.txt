@@ -1,0 +1,16 @@
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\bin\Debug\net8.0-windows\ExamWeek4.exe
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\bin\Debug\net8.0-windows\ExamWeek4.deps.json
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\bin\Debug\net8.0-windows\ExamWeek4.runtimeconfig.json
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\bin\Debug\net8.0-windows\ExamWeek4.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\bin\Debug\net8.0-windows\ExamWeek4.pdb
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.Form1.resources
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.csproj.GenerateResource.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.AssemblyInfoInputs.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.AssemblyInfo.cs
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.csproj.CoreCompileInputs.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\refint\ExamWeek4.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.pdb
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ExamWeek4.genruntimeconfig.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\ExamWeek4\ExamWeek4\obj\Debug\net8.0-windows\ref\ExamWeek4.dll

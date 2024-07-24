@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|c:\\users\\israel fridless\\desktop\\kodcode 2\\c#\\examweek4\\examweek4\\service\\ketubahservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|solutionrelative:examweek4\\service\\ketubahservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\examweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|solutionrelative:examweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|c:\\users\\israel fridless\\desktop\\kodcode 2\\c#\\examweek4\\examweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|solutionrelative:examweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|c:\\users\\israel fridless\\desktop\\kodcode 2\\c#\\examweek4\\examweek4\\configuration\\ketubahconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E2BC93-1523-4CA7-862D-35F8E5B1DB3D}|ExamWeek4\\ExamWeek4.csproj|solutionrelative:examweek4\\configuration\\ketubahconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Form1.cs",
+              "RelativeDocumentMoniker": "ExamWeek4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Form1.cs [Design]",
+              "RelativeToolTip": "ExamWeek4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:13:15.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ketubah.xml",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml",
+              "RelativeDocumentMoniker": "ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml",
+              "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml",
+              "RelativeToolTip": "ExamWeek4\\bin\\Debug\\net8.0-windows\\Ketubah.xml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-24T07:04:11.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Form1.cs",
+              "RelativeDocumentMoniker": "ExamWeek4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Form1.cs",
+              "RelativeToolTip": "ExamWeek4\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:01:00.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KetubahService.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Service\\KetubahService.cs",
+              "RelativeDocumentMoniker": "ExamWeek4\\Service\\KetubahService.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Service\\KetubahService.cs",
+              "RelativeToolTip": "ExamWeek4\\Service\\KetubahService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:58:23.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KetubahConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Configuration\\KetubahConfig.cs",
+              "RelativeDocumentMoniker": "ExamWeek4\\Configuration\\KetubahConfig.cs",
+              "ToolTip": "C:\\Users\\Israel Fridless\\Desktop\\Kodcode 2\\C#\\ExamWeek4\\ExamWeek4\\Configuration\\KetubahConfig.cs",
+              "RelativeToolTip": "ExamWeek4\\Configuration\\KetubahConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:56:24.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
